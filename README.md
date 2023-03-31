@@ -36,4 +36,6 @@ https://user-images.githubusercontent.com/62492745/206619768-7c4658c0-d8e8-4806-
 
 
 share-image:
-<img width="451" alt="homgpage" src="https://user-images.githubusercontent.com/62492745/229029727-e63e7a6f-0417-4d90-aa5f-ad2ade0d7120.png">
+<img width="1511" alt="Screen Shot 2023-03-31 at 16 25 52" src="https://user-images.githubusercontent.com/62492745/229030781-c4ff13a8-78f7-4a41-b153-d900cc634e1d.png">
+
+
